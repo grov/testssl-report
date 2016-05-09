@@ -43,7 +43,10 @@ yahoo.com,"cbc_tls1","yahoo.com/98.139.183.24","443","NOT ok","BEAST (CVE-2011-3
 ```
 
 ### NOTE:
-**This was designed to get on a Jenkins server which freshly installs and runs the project each time.
-Consequesntly, it only works if you *haven't* yet cloned the `testssl.sh` repo.**
-If you already cloned this repo (and are happy with its currency) just comment out the first line of `cloneRunAndAggregate.sh`
+**This was designed to run on a Jenkins server which freshly 
+downloads and runs the project each time.
+Consequesntly, it only works *LOCALLY* if you *haven't* 
+yet cloned the `testssl.sh` repo.**
+If you already cloned this repo (and are happy with its currency) 
+just comment out the first line of `cloneRunAndAggregate.sh`
 
