@@ -1,3 +1,6 @@
+##Modification du script de base afin de ne récupérer que les protocoles SSL/TLS utilisés (TLS, SSL etc ... ).
+
+
 # Test SSL
 Given a list of urls, run [Dirk Wetter's testssl.sh](https://github.com/drwetter/testssl.sh) 
 on each and tabulate failures only into a single spreadheet.
