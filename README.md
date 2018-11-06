@@ -1,4 +1,4 @@
-##Modification du script de base afin de ne récupérer que les protocoles SSL/TLS utilisés (TLS, SSL etc ... ).
+##***Modification du script de base afin de ne récupérer que les protocoles SSL/TLS utilisés (TLS, SSL etc ... ).***
 
 
 # Test SSL
