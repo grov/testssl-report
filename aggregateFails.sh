@@ -1,2 +1,2 @@
-grep "NOT ok" $1 | sed -e "s/^/$1,/"
+grep "offered" $1 | sed -e "s/^/$1,/"
 
